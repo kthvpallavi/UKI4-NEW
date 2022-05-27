@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{
+    color: maroon;
+    background-color: yellow;
+}
+table,th,td {
+    border-collapse: collapse;
+    border: 1px solid black;
+
+
+}
+.kthv{
+    text-align: center;
+}
+.myg{
+    color: green;
+}
+.jjk{
+    background-color:rgb(199, 184, 184) ;
+}
+.un{
+    text-decoration: underline;
+    color: maroon;
+}
+.pjm{
+    color: maroon;
+}
+.jhs{
+    color: maroon;
+}
+img{
+    width:30%;
+    height: 40%;
+    float: right;
+    margin-top: 5.5%;
+}
